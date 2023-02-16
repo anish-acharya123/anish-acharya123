@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-acharya123&label=Profile%20views&color=0e75b6&style=flat" alt="anish-acharya123" /> </p>
 
-- 🌱 I’m currently learning **root of React JS.**
+- 🌱 I’m currently learning **ExpressJS.**
 
 - 👨‍💻 All of my projects are available at [anish-acharya.com.np](anish-acharya.com.np)
 
