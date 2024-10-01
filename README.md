@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Acharya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-acharya123&label=Profile%20views&color=0e75b6&style=flat" alt="anish-acharya123" /> </p>
 
-- 🌱 I’m currently learning **root of React JS.**
+- 🌱 I’m currently learning **root of Nextjs.**
 
 - 👨‍💻 All of my projects are available at [anish-acharya.com.np](anish-acharya.com.np)
 
