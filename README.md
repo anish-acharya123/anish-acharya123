@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **root of Nextjs.**
 
-- 👨‍💻 All of my projects are available at [anish-acharya.com.np](anish-acharya.com.np) <a href="anish-acharya.com.np" target="_blank">My Website</a>
+- 👨‍💻 All of my projects are available at [anish-acharya.com.np](anish-acharya.com.np) 
 
 - 📫 How to reach me **acharyaanish920@gmail.com**
 
